@@ -55,3 +55,14 @@ pip install -r requirements.txt
 
 # 3. Launch the Core Engine
 python3 app_gui.py
+
+## 🔮 Future Work & Research Roadmap
+As this independent research continues, future iterations of the architecture will target the following theoretical upgrades:
+
+LZMA / Zlib Compression Pipeline: Pre-encryption lossless compression to vastly expand the payload capacity of smaller carrier matrices.
+
+Argon2 Key Derivation: Upgrading the PRNG and AES seed generation to memory-hard hashing algorithms to ensure absolute immunity to brute-force dictionary attacks.
+
+Syndrome Trellis Codes (STC): Implementing Hamming matrix mathematics to hide multiple bits of data per single altered DCT coefficient, radically reducing the overall distortion payload.
+
+Disclaimer: This tool was developed strictly for academic research and authorized cryptographic defense. The author is not responsible for the misuse of this software.
