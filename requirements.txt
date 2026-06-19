@@ -1,0 +1,6 @@
+cryptography==42.0.5
+opencv-python==4.9.0.80
+numpy<2
+jpegio==0.2.8
+reedsolo==1.7.0
+customtkinter==5.2.2

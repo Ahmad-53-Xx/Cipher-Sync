@@ -1,0 +1,20 @@
+# Python environments
+venv/
+env/
+__pycache__/
+*.pyc
+
+# PyInstaller build files
+build/
+dist/
+*.spec
+
+# Project test outputs and figures
+vault_output/
+figures/
+scratchpad/
+*.bin
+
+# OS files
+.DS_Store
+*.pdf
