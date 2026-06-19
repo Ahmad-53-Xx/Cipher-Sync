@@ -55,7 +55,8 @@ pip install -r requirements.txt
 
 # 3. Launch the Core Engine
 python3 app_gui.py
-
+```
+---
 ## 🔮 Future Work & Research Roadmap
 As this independent research continues, future iterations of the architecture will target the following theoretical upgrades:
 
