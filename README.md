@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="53_logo.png" alt="53 Signature Logo" width="280" high="150"/>
+  <img src="53_logo.png" alt="53 Signature Logo" width="600" />
   <h1>Cipher-Sync v2.0</h1>
   <p><b>Distributed Zero-Knowledge Steganographic Vault</b></p>
 </div>
